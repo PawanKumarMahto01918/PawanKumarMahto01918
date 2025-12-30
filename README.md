@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PawanKumarMahto01918
-- 👀 I’m interested in .coding.
-- 🌱 I’m currently learning .software engineering , cloud computing , data science.
+- 👀 I’m a software developer engineer.
 - 💞️ I’m looking to collaborate on .social active coders.
 - 📫 How to reach me "pawankrmahto01918@gmail.com"
 
